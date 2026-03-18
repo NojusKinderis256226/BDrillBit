@@ -10,7 +10,7 @@ import tensorflow as tf
 import json
 
 # ---------- config ----------
-MODEL_PATH = "cnn_v4_saved_model"
+MODEL_PATH = "cnn_v4_saved_model.h5"
 CLASSES = ["New", "Worn", "Damaged"]
 HISTORY_PATH = "history.json"
 IMG_SIZE = (224, 224)
