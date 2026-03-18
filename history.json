@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-03-18 16:54:00",
+    "filename": "Damaged drill bit_20.png",
+    "prediction": "Worn",
+    "confidence": 86.0,
+    "elapsed_sec": 0.79,
+    "note": "old",
+    "all_probs": {
+      "New": 2.6,
+      "Worn": 86.0,
+      "Damaged": 11.4
+    }
+  },
+  {
+    "timestamp": "2026-03-18 16:35:16",
+    "filename": "Damaged drill bit_10.png",
+    "prediction": "Damaged",
+    "confidence": 48.0,
+    "elapsed_sec": 0.86,
+    "note": "broken by accident",
+    "all_probs": {
+      "New": 37.8,
+      "Worn": 14.2,
+      "Damaged": 48.0
+    }
+  },
+  {
+    "timestamp": "2026-03-18 16:34:51",
+    "filename": "Damaged drill bit_10.png",
+    "prediction": "Damaged",
+    "confidence": 48.0,
+    "elapsed_sec": 0.37,
+    "note": "\u2014",
+    "all_probs": {
+      "New": 37.8,
+      "Worn": 14.2,
+      "Damaged": 48.0
+    }
+  }
+]
